@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:mistyrose}
+
+#Logo {float:left;}
+
+#Icon {float:right;}
+
+#Navigation 
+{
+clear:both;
+font-family:Arial;
+word-spacing:35px;
+border-top:solid black 1px;
+border-bottom:solid black 1px;
+padding:10px 0px 10px 0px;
+margin:10px 0px 10px 0px;
+}
+
+#Navigation a 
+{
+	color:black;
+}
+
+#Navigation a:hover {color:orange;}
+
+#LeftContent h1 {color:indianred; border-bottom:solid black 1px;}
+
+#LeftContent{width:650px;float:left;}
+#Righttext {width:200px;float:right}
+#Righttext h3 {color:indianred;}
+#LeftContent img {margin:10px 10px 10px 10px;border:solid black 1px;padding:10px 10px 10px 10px;}
+
+#Righttext h1 h2 h3 p {float:right;} 
+
+#Copyright{clear:both;
+   border-top:black solid 2px;
+text-align:center;}
+#Kotak {width:1000px;background-color:white;margin:0px auto 0px auto;}
+#Kotak2 {}
